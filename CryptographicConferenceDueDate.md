@@ -1,5 +1,4 @@
 ## IACR International Association for Cryptologic Reserach()
-
 ### 27th European Symposium on Research in Computer Security
 
 Spring Cycle
@@ -405,4 +404,7 @@ Spring Cycle
 >
 > *https://globecom2023.ieee-globecom.org/*
 
-### 
+###
+
+### somenote for that 
+2018年12月，CCF决定启动新一轮《目录》更新工作。此次更新距第四版目录（ 2015年12月）发布已有三年。本次更新的原则是：在既有基础上进行微调，领域分布保持不变，期刊和会议的推荐类别保持不变。目录仍分为A、B、C三类，其中，会议论文指“Full paper”或“Regular paper”（正式发表的长文），对于会议上其他形式发表的论文如Short paper、Demo paper、Technical Brief、Summary以及作为伴随会议的Workshop等不计入目录考虑的范围。需要说明的是，一些出版社和学术社团编发的magazine（杂志）未纳入本“目录”的推荐期刊列表中
